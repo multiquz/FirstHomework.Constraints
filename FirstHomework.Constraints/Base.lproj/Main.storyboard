@@ -28,16 +28,15 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemGray5Color"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="kBY-rh-TGv" secondAttribute="trailing" constant="20" id="8Sr-C4-aKm"/>
-                            <constraint firstItem="kBY-rh-TGv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Gxe-8n-ttP"/>
-                            <constraint firstItem="lLU-M0-VhW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="HIX-qm-ZGh"/>
-                            <constraint firstItem="kBY-rh-TGv" firstAttribute="height" secondItem="lLU-M0-VhW" secondAttribute="height" id="KUa-HF-ViS"/>
-                            <constraint firstItem="lLU-M0-VhW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Wmn-RC-LgS"/>
-                            <constraint firstItem="kBY-rh-TGv" firstAttribute="width" secondItem="lLU-M0-VhW" secondAttribute="width" id="Ysv-vu-IbP"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="kBY-rh-TGv" secondAttribute="bottom" constant="20" id="Z31-Sa-frw"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lLU-M0-VhW" secondAttribute="trailing" constant="20" id="Zbn-gO-ap8"/>
-                            <constraint firstItem="kBY-rh-TGv" firstAttribute="top" secondItem="lLU-M0-VhW" secondAttribute="bottom" constant="96" id="dET-pk-aBh"/>
-                            <constraint firstItem="kBY-rh-TGv" firstAttribute="top" secondItem="lLU-M0-VhW" secondAttribute="bottom" constant="96" id="hGn-E2-e6Y"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="kBY-rh-TGv" secondAttribute="bottom" constant="20" id="8s9-F8-Rfa"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lLU-M0-VhW" secondAttribute="trailing" constant="20" id="Kfy-A2-PhM"/>
+                            <constraint firstItem="lLU-M0-VhW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="O3o-tt-eo7"/>
+                            <constraint firstItem="kBY-rh-TGv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="ZfQ-63-0Ww"/>
+                            <constraint firstItem="kBY-rh-TGv" firstAttribute="height" secondItem="lLU-M0-VhW" secondAttribute="height" id="eeD-Hx-Qt2"/>
+                            <constraint firstItem="kBY-rh-TGv" firstAttribute="top" secondItem="lLU-M0-VhW" secondAttribute="bottom" constant="96" id="gFK-M6-7ip"/>
+                            <constraint firstItem="kBY-rh-TGv" firstAttribute="top" secondItem="lLU-M0-VhW" secondAttribute="bottom" constant="96" id="nLh-ba-UK9"/>
+                            <constraint firstItem="lLU-M0-VhW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="wTd-bX-kD4"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="kBY-rh-TGv" secondAttribute="trailing" constant="20" id="z6Q-a8-KVW"/>
                         </constraints>
                     </view>
                 </viewController>
